@@ -1,0 +1,17 @@
+
+
+
+header{
+
+background-color: violet;
+border: 5px blueviolet ;
+width: 750;
+height: 250px;
+
+
+-khtml-border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+
+}
